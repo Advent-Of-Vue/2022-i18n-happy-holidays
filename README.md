@@ -63,7 +63,9 @@ You'll be editing `App.vue`. You don't really need anything below except for Vue
 
   <div>
 
-  ![Github Profile](https://img.shields.io/github/followers/jessicasachs?logo=github&label=GitHub&logoColor=161b22&labelColor=white) ![Twitter Follow](https://img.shields.io/twitter/follow/_JessicaSachs?color=%231ea1f1&label=Twitter&labelColor=white&logo=twitter&style=flat) ![Mastodon Follow](https://img.shields.io/mastodon/follow/109243482111211156?color=%236465f8&labelColor=white&domain=https%3A%2F%2Fmastodon.social&label=Mastodon&logo=mastodon&style=flat) ![Personal Website](https://img.shields.io/badge/Personal_Site-Follow?logoColor=deeppink&style=flat&color=white&labelColor=white&logo=windows-terminal&link=https://jess.sh/&link=https://jess.sh)
+<a href="https://github.com/JessicaSachs"><img src="https://img.shields.io/github/followers/jessicasachs.svg?logo=github&label=GitHub&logoColor=161b22&labelColor=white&sanitize=true" alt="GitHub Profile"></a>
+<a href="https://twitter.com/_JessicaSachs"><img src="https://img.shields.io/twitter/follow/_JessicaSachs.svg?color=%231ea1f1&label=Twitter&labelColor=white&logo=twitter&style=flat&sanitize=true" alt="Twitter Follow"></a> <a href="https://twitter.com/_JessicaSachs"><img src="https://img.shields.io/mastodon/follow/109243482111211156.svg?color=%236465f8&labelColor=white&domain=https%3A%2F%2Fmastodon.social&label=Mastodon&logo=mastodon&style=flat&sanitize=true" alt="Mastodon Follow"></a> <a href="https://jess.sh"><img src="https://img.shields.io/badge/Personal_Site-Follow?logoColor=deeppink&style=flat&color=white&labelColor=white&logo=windows-terminal
+&sanitize=true" alt="Personal Website"></a>
 
   </div>
 
