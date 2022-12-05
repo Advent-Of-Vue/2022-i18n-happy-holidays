@@ -16,15 +16,15 @@ Translations are provided, though you can add your own!
 
 ## Task List + Hints
 
-[ ] Localize "Happy Holidays" using Vue i18n.
-[ ] Setup a cycle, radio button, or other way of changing what the current locale is.
-[ ] Render the current locale.
-[ ] Render a flag emoji or icon for each locale.
-[ ] Use the Vue i18n date function to localize the date object for "Christmas".
-[ ] Render the number of days until Christmas.
-[ ] Localize the number of days until Christmas (`days`).
-[ ] Localize the entire `christmasIsComing` string with the `date` and `time` values to include joining particles ("{ date } is in { time }" or "{date}はあと{time}" -- notice there are no spaces in Japanese 🤔)
-[ ] Style the `time` part of the `christmasIsComing` string. (Hint: use `i18n-t` and the slot syntax)
+- [ ] Localize "Happy Holidays" using Vue i18n.
+- [ ] Setup a cycle, radio button, or other way of changing what the current locale is.
+- [ ] Render the current locale.
+- [ ] Render a flag emoji or icon for each locale.
+- [ ] Use the Vue i18n date function to localize the date object for "Christmas".
+- [ ] Render the number of days until Christmas.
+- [ ] Localize the number of days until Christmas (`days`).
+- [ ] Localize the entire `christmasIsComing` string with the `date` and `time` values to include joining particles ("{ date } is in { time }" or "{date}はあと{time}" -- notice there are no spaces in Japanese 🤔)
+- [ ] Style the `time` part of the `christmasIsComing` string. (Hint: use `i18n-t` and the slot syntax)
 
 ### Libraries and Structure
 
